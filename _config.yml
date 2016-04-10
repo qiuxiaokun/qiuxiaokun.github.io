@@ -6,15 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 我有酒，你有故事否
+title: 小秋
 email: xiaoqiu2794@gmail.com
+tail: 酒逢知己千杯少
+addr: Guangdong Guangzhou
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  我有酒，你有故事否
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: qiuxiaokun110
+# twitter_username: qiuxiaokun110
 github_username:  qiuxiaokun
 
 # Build settings
