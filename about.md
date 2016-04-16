@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+##邱晓坤
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+**程序员**  
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+**人生苦短，我用python**
+
+**2014年 毕业于 广东工业大学**  
+
+**2010年 毕业于 饶平县第二中学**  
+
+**2007年 毕业于 饶平县饶洋中学**  
+
+**热衷于户外徒步**  
+>下一站：麦理浩径  
+
