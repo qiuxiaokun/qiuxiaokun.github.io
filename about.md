@@ -1,9 +1,11 @@
 ---
 layout: page
-title: 邱晓坤
+title: About
 permalink: /about/
 ---
 
+
+**邱晓坤**  
 
 **程序员**  
 
