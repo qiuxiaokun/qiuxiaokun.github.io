@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  牛塘山
+title:  niutangshan
 date:   2016-04-24
 categories: outdoor
 ---
