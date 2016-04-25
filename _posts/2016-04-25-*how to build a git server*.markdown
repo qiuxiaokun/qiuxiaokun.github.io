@@ -14,7 +14,7 @@ date: 2016-04-25
 
 1. 创建独立的账户进行代码版本控制(当前用户为root，新用户取名为git)  
     adduser git  
-    passwd igt  
+    passwd git  
     su git  
     cd  
     mkdir .ssh  
