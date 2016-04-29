@@ -22,8 +22,8 @@ markdown: kramdown
 
 # 多说评论插件
 comments :
-    provider : duoshuo
-    duoshuo :
-        short_name : qiuxiaokun
-    disqus :
-        short_name : jekyllbootstrap
+  provider : duoshuo
+  duoshuo :
+    short_name : qiuxiaokun
+  disqus :
+    short_name : jekyllbootstrap
