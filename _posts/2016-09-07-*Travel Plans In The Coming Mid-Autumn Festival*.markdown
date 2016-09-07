@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Travel Plans In The Coming Mid-Autumn Festival
+title: 中秋计划之麦径一二三四段
 date: 2016-09-07
 categories: outdoors
 permalink: /mid-autumn/
