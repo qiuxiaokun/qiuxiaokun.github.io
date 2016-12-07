@@ -16,6 +16,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://qiuxiaokun.com" # the base hostname & protocol for your site
 # twitter_username: qiuxiaokun110
 github_username:  qiuxiaokun
+weibo_username:  Q-XK
+wechat_username:  小秋
 
 # Build settings
 markdown: kramdown
