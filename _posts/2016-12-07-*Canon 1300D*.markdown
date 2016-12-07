@@ -4,6 +4,8 @@ title:  Canon 1300D
 date:   2016-12-07 11:47:00 +0800
 categories: camera
 permalink: /canon-1300D/
+share_img: http://7xt7qw.com1.z0.glb.clouddn.com/canon/camera4.jpg
+share_content: 大学期间就好想拥有一台单反机器，因为自己比较喜欢去户外玩，遇到一些美美的风景和可爱的小伙伴...
 
 ---
 
