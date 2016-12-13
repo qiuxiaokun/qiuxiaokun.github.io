@@ -1,4 +1,4 @@
-# ---
+---
 layout: post
 title: 再遇武功山
 date: 2016-12-13
