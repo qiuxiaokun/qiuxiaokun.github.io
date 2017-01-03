@@ -15,7 +15,7 @@
 
       <div class="trigger">
         {% for my_page in site.pages %}
-          {% if my_page.title != "Me" %}
+          {% if my_page.title != "Me" and my_page.title != "遇上，用了全部的运气" %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
