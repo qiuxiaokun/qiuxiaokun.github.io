@@ -1,8 +1,6 @@
 ---
 layout: page
 title: 遇上，用了全部的运气
-date: 2016-11-06
-categories: love
 permalink: /meet/
 ---
 
