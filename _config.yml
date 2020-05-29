@@ -29,3 +29,5 @@ comments :
     short_name : qiuxiaokun
   disqus :
     short_name : jekyllbootstrap
+
+theme: jekyll-theme-cayman
