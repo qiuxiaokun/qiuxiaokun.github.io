@@ -30,4 +30,4 @@ comments :
   disqus :
     short_name : jekyllbootstrap
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
